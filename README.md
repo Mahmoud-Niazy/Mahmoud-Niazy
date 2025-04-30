@@ -21,7 +21,8 @@ Here are some of the tools and technologies I work with:
   <img src="https://img.icons8.com/color/48/flutter.png" alt="Flutter"/>
   <img src="https://img.icons8.com/color/48/dart.png" alt="Dart"/>
   <img src="https://img.icons8.com/color/48/firebase.png" alt="Firebase"/>
-  <img src="https://img.icons8.com/ios/48/android-studio.png" alt="Android Studio"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/sql.png" alt="SQL" width="48" height="48"/>
+  <img src="https://img.icons8.com/color/48/google-maps-new.png" alt="Google Maps" width="48" height="48"/>
   <img src="https://img.icons8.com/color/48/figma--v1.png" alt="Figma"/>
 </p>
 
