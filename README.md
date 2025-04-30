@@ -28,17 +28,6 @@ Here are some of the tools and technologies I work with:
 
 ---
 
-## 📊 What I’ve Been Up To
-
-Here’s a quick look at some of my GitHub stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mahmoud-Niazy&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud-Niazy&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
-
----
-
 ## 🤝 Let’s Connect
 
 I’d love to hear from you! Whether it’s about tech, collaboration, or just to say hi:
