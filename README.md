@@ -46,7 +46,7 @@ I’d love to hear from you! Whether it’s about tech, collaboration, or just t
   <a href="https://www.linkedin.com/in/mahmoud-niazy-29a251254/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mahmoudniazy33@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+ <a href="mailto:mahmoudniazy33@gmail.com">
+  <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 </p>
