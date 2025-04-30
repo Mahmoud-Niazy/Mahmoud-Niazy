@@ -9,7 +9,7 @@ I’ve worked with both Android and iOS platforms, and I’m always exploring ne
 
 I’m also a big believer in continuous learning, so I’m always diving into new tech and tools to grow as a developer.
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mahmoud-niazy) — I’m always up for a chat!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mahmoud-niazy-29a251254/) — I’m always up for a chat!
 
 ---
 
@@ -46,7 +46,7 @@ I’d love to hear from you! Whether it’s about tech, collaboration, or just t
   <a href="https://www.linkedin.com/in/mahmoud-niazy-29a251254/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:mahmoudniazy33@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
