@@ -17,11 +17,11 @@ Passionate about learning new technologies and delivering high-quality apps.
   <img src="https://img.icons8.com/color/48/flutter.png" alt="Flutter"/>
   <img src="https://img.icons8.com/color/48/dart.png" alt="Dart"/>
   <img src="https://img.icons8.com/color/48/firebase.png" alt="Firebase"/>
-  <img src="https://img.icons8.com/color/48/php.png" alt="PHP"/>
-  <img src="https://img.shields.io/badge/Laravel-EF3F3F?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
   <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub"/>
   <img src="https://img.icons8.com/fluency/48/sql.png" alt="SQLite"/>
   <img src="https://img.icons8.com/color/48/figma--v1.png" alt="Figma"/>
+  <img src="https://img.icons8.com/color/48/php.png" alt="PHP"/>
+  <img src="https://img.shields.io/badge/Laravel-EF3F3F?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
 </p>
 
 ---
