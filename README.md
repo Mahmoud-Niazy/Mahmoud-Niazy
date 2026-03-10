@@ -4,7 +4,7 @@
 
 ## 👋 About Me
 
-I’m **Mahmoud Niazy**, a mobile app developer with **2+ years of experience** in building clean and user-friendly apps using **Flutter**.  
+I’m **Mahmoud Niazy**, a mobile app developer with **2+ years of work experience** in building clean and user-friendly apps using **Flutter**.  
 I also have experience in **backend development** with **Laravel & PHP**, enabling me to work on full-stack projects.  
 
 Passionate about learning new technologies and delivering high-quality apps.
